@@ -14,8 +14,6 @@ export default defineConfig({
   resolve: {
     alias: {
       // alias need to be absolute path
-      '@toast': path.resolve(projectRootDir, 'src/toast'),
-      '@utils': path.resolve(projectRootDir, 'src/utils'),
     },
   },
   test: {
