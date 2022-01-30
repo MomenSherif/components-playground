@@ -8,7 +8,7 @@ export default function App() {
   return (
     <>
       <div className="min-h-screen flex flex-col justify-center items-center bg-slate-900 text-white">
-        <h1 className="text-6xl font-bold">Toast! 🚀</h1>
+        <h1 className="text-6xl font-bold">Toast 🚀</h1>
         <div className="mt-4 space-x-3">
           <button
             className="text-xl bg-green-500 rounded-md px-3 py-2 min-w-[100px]"
